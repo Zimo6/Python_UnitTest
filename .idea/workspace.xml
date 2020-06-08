@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68bb0904-e127-4b54-85fa-6ca6e348308a" name="Default Changelist" comment="更新了skip使用" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1d01OcpFc9Vlz8y6Vy41kKs0Uq1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/断言" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Pycharm\UnitForAuto\断言" />
+      <recent name="D:\Pycharm\UnitForAuto" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Pycharm\UnitForAuto\断言" />
+      <recent name="D:\Pycharm\UnitForAuto\demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in demo.py">
+    <configuration name="Unittests for 断言.forTestTest.test_1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="UnitForAuto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/断言" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;断言.forTestTest.test_1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in UnitTest-ddt3-file_data()直接读取yml文件.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="UnitForAuto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/demo/UnitTest-ddt3-file_data()直接读取yml文件.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in UnitTest-ddt4-file_data()直接读取yml文件.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="UnitForAuto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/demo/UnitTest-ddt4-file_data()直接读取yml文件.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in 断言.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="UnitForAuto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/断言" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/断言/断言.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in demo.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="UnitForAuto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/skip" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/skip/demo.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in demo.py" />
+        <item itemvalue="Python tests.Unittests in 断言.py" />
+        <item itemvalue="Python tests.Unittests in UnitTest-ddt4-file_data()直接读取yml文件.py (1)" />
+        <item itemvalue="Python tests.Unittests in UnitTest-ddt3-file_data()直接读取yml文件.py" />
+        <item itemvalue="Python tests.Unittests for 断言.forTestTest.test_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68bb0904-e127-4b54-85fa-6ca6e348308a" name="Default Changelist" comment="" />
+      <created>1591547165242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591547165242</updated>
+    </task>
+    <task id="LOCAL-00001" summary="更新了skip使用">
+      <created>1591635578363</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591635578363</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/Python_UnitTest" />
+    </ignored-roots>
+    <MESSAGE value="更新了skip使用" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新了skip使用" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1336" y="279" key="#Unittests_for_UnitTest-ddt1-基本使用.forTestTest.test_1" timestamp="1591552326514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1336" y="279" key="#Unittests_for_UnitTest-ddt1-基本使用.forTestTest.test_1/0.0.1920.1040@0.0.1920.1040" timestamp="1591552326514" />
+    <state x="793" y="200" key="#Unittests_for_UnitTest-ddt2-配合webdriver.forTestTest.test_1" timestamp="1591554338742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="793" y="200" key="#Unittests_for_UnitTest-ddt2-配合webdriver.forTestTest.test_1/0.0.1920.1040@0.0.1920.1040" timestamp="1591554338742" />
+    <state x="751" y="180" key="#Unittests_for_UnitTest-ddt4-file_data()直接读取yml文件.forTestTest.test_1" timestamp="1591629997482">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="751" y="180" key="#Unittests_for_UnitTest-ddt4-file_data()直接读取yml文件.forTestTest.test_1/0.0.1920.1040@0.0.1920.1040" timestamp="1591629997482" />
+    <state x="711" y="165" key="#Unittests_for_断言.forTestTest.test_1" timestamp="1591630335464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="711" y="165" key="#Unittests_for_断言.forTestTest.test_1/0.0.1920.1040@0.0.1920.1040" timestamp="1591630335464" />
+    <state x="581" y="144" key="CommitChangelistDialog2" timestamp="1591635730753">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="581" y="144" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591635730753" />
+    <state x="1003" y="488" key="Github.CreateGistDialog" timestamp="1591637240431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1003" y="488" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591637240431" />
+    <state width="1629" height="324" key="GridCell.Tab.0.bottom" timestamp="1591635590156">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1629" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591635590156" />
+    <state width="1629" height="324" key="GridCell.Tab.0.center" timestamp="1591635590156">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1629" height="324" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591635590156" />
+    <state width="1629" height="324" key="GridCell.Tab.0.left" timestamp="1591635590156">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1629" height="324" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591635590156" />
+    <state width="1629" height="324" key="GridCell.Tab.0.right" timestamp="1591635590156">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1629" height="324" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591635590156" />
+    <state width="1629" height="340" key="GridCell.Tab.1.bottom" timestamp="1591553501131">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1629" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591553501131" />
+    <state width="1629" height="340" key="GridCell.Tab.1.center" timestamp="1591553501131">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1629" height="340" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591553501131" />
+    <state width="1629" height="340" key="GridCell.Tab.1.left" timestamp="1591553501131">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1629" height="340" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591553501131" />
+    <state width="1629" height="340" key="GridCell.Tab.1.right" timestamp="1591553501131">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1629" height="340" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591553501131" />
+    <state x="795" y="241" key="RollbackChangesDialog" timestamp="1591635997259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="795" y="241" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591635997259" />
+    <state x="856" y="250" key="SettingsEditor" timestamp="1591637197519">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="856" y="250" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591637197519" />
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1591626263792">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591626263792" />
+    <state x="1048" y="299" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1591548925011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1048" y="299" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1591548925011" />
+    <state x="973" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1591634843942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="973" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591634843942" />
+  </component>
+</project>
